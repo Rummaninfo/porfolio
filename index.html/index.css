@@ -1,0 +1,26 @@
+.Header-image{
+    background-image: url(Images/Banner\ Image.png);
+    height: 1320px;
+    background-repeat: no-repeat;
+    background-size: 1100px;
+    margin-left: 120px;
+}
+.Header{
+    /* text-align: center; */
+    /* padding-top: 150px; */
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Open Sans;
+    padding-right: 100px;
+}
+
+.Header-1{
+    font-size: 35px;
+    
+}
+.Header-2{
+    font-size: 75px;
+    
+}
+    
