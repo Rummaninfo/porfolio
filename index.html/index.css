@@ -1,9 +1,11 @@
 .Header-image{
     background-image: url(Images/Banner\ Image.png);
-    height: 1320px;
+    /* height: 1320px; */
     background-repeat: no-repeat;
     background-size: 1100px;
     margin-left: 120px;
+    height: 550px;
+    
 }
 .Header{
     /* text-align: center; */
@@ -20,7 +22,130 @@
     
 }
 .Header-2{
-    font-size: 75px;
-    
+    font-size: 75px;   
 }
+.change{
+    text-align: center;
+}
+.change-image{
+    margin-top: 10px;
+}
+.change-image{
+    padding-top: 10px;  
+    /* margin-top: 10px;  */
+}
+.good{
+    background-image: url(Images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: 1100px;
+    margin-left: 120px;
+    height: 550px;
+    margin-top: 90px;
+    color: wheat;
+}
+.lorem{
+    padding-left: 70px;
+    padding-top: 110px;
+}
+.be{
+    padding-right:50%;
+}
+.btn{
+    padding: 10px;
+   background-color: rgba(255, 255, 0, 0.705);
+   color: beige;
+   margin-left: 20px;
+   
+}
+
+.vector{
+   margin-top: 20px;
+   background-color:rgba(255, 182, 193, 0.76);
+    text-align: center;
+    padding: 50px;
+    margin-left: 110px;
+margin-right: 110px;
+font-family: open sans;
+font-weight: 600px;
+font-size: 15px;
+
+}
+    .red{
+        color: red;
+    }
+    .but{
+        padding: 15px;
+        background-color: red;
+        color:white;
+    }
+    .circle-paragraph{
+        /* margin-top: 25px; */
+        margin-top: 100px;
+        /* background-color: black;  */
+        margin-left: 110px;
+        margin-right: 110px;
+        display: flex;
+        margin-bottom: 20px;
+        /* background-color: blue;  */
+        background-color: aquamarine;
+        padding-right: 20px;
+        
+    }
+    .not{
+        /* border: 5px solid green; */
+        height: 300px;
+        width: 300px;
+        display: block;
+
+         margin: auto;
+       border-radius: 50%;
+       border: 10px solid wheat;
+       border: 15px solid red;
+       margin-right: 200px;
+      
+    }
+   
+    .circle-image{
+       width: 100px;
+       margin-top: 100px;
+       margin-left: 130px;
+     padding-right: 200px;
     
+    }
+    .parag{
+        margin-right: 250px; 
+        
+    }
+   .holiday{
+    margin-top: 80px;
+    text-align: center;}
+   
+.holiday p{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+.holiday h3{
+    font-weight: 400px;
+    font-family: open sans;
+    font-size: 25px;
+    height: 3px;
+}
+.holiday h1{
+    font-size: 60px;
+    font-weight: 500px;
+    padding-left: 10px;
+    color: red;
+    height:50px;   
+}
+#ss{
+    color: black;
+}
+.triangle{
+    display: flex;
+    margin-left: 110px;
+    margin-right: 110px;
+    /* background-color: aquamarine;  */
+    margin-top: 50px;
+}
