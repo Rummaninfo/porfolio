@@ -1,10 +1,19 @@
+
 .Header-image{
     background-image: url(Images/Banner\ Image.png);
     /* height: 1320px; */
     background-repeat: no-repeat;
     background-size: 1100px;
-    margin-left: 120px;
+     margin-left: 120px; 
+     
     height: 550px;
+    /* height: 500px; */
+    /* width: 100%; */
+    
+    /* background-color: rgba(0, 0, 0, 0.39); */
+     /* background-blend-mode: multiply;  */
+    
+     
     
 }
 .Header{
@@ -15,6 +24,7 @@
     padding-top: 20px;
     font-family: Open Sans;
     padding-right: 100px;
+
 }
 
 .Header-1{
@@ -42,21 +52,37 @@
     height: 550px;
     margin-top: 90px;
     color: wheat;
+    display: flex;
+    margin-top: 100px; 
+    /* justify-content: space-evenly;  */
 }
 .lorem{
     padding-left: 70px;
     padding-top: 110px;
+    margin-right: 110px;
+    height: 40px;
+    width: 600px;
+
 }
+.hundred{
+margin-top: 80px;
+margin-right: 20px;
+
+}
+
 .be{
-    padding-right:50%;
+    /* padding-right:50%;  */
 }
 .btn{
     padding: 10px;
    background-color: rgba(255, 255, 0, 0.705);
    color: beige;
-   margin-left: 20px;
+   margin-left: 25px;
+   border: none;
+   
    
 }
+
 
 .vector{
    margin-top: 20px;
@@ -78,52 +104,95 @@ font-size: 15px;
         background-color: red;
         color:white;
     }
-    .circle-paragraph{
-        /* margin-top: 25px; */
-        margin-top: 100px;
-        /* background-color: black;  */
-        margin-left: 110px;
-        margin-right: 110px;
+    /* circle start */
+    .circle-st{
         display: flex;
-        margin-bottom: 20px;
-        /* background-color: blue;  */
-        background-color: aquamarine;
-        padding-right: 20px;
-        
-    }
-    .not{
-        /* border: 5px solid green; */
-        height: 300px;
-        width: 300px;
-        display: block;
+background-color:wheat;
+margin: 00px;
+height: 300px;
+margin-right: 110px;
+margin-left: 110px;
+text-align: center;
+margin-top: 50px;
+padding-left: 10px;
 
-         margin: auto;
-       border-radius: 50%;
-       border: 10px solid wheat;
-       border: 15px solid red;
-       margin-right: 200px;
-      
-    }
-   
-    .circle-image{
-       width: 100px;
-       margin-top: 100px;
-       margin-left: 130px;
-     padding-right: 200px;
-    
-    }
-    .parag{
-        margin-right: 250px; 
+
+ }
+    .circle-head{
+        /* height: 20px;  */
+        font-weight: 50px;
+        margin-right: 80px;
+        padding-right: 58px;
         
+        padding-bottom: 80px;
+        padding-left: 30px;
+        padding-top: 20px;
+        /* width: 300px;  */
+        text-align: left;
+
+        
+        
+       
+       
     }
-   .holiday{
-    margin-top: 80px;
-    text-align: center;}
-   
-.holiday p{
-    padding-left: 100px;
-    padding-right: 100px;
+   .circle{
+     width: 100%; 
+    /* margin-top: 80px; */
+    
+    padding-bottom: 290px;
+    padding-right: 280px;
+    padding-left: 20px;
+    padding-top: 5px;
+    max-width: 500px;
+    height: 20px;
+    width: 200px;
+    
+    
+    
+    
+   }
+   .bad{
+display: flex;
+margin-left: 110px;
+margin-right: 110px;
+background-color:white;
+margin-top: 50px;
+
+   }
+   .imy{
+    
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+border-radius: 50%;
+border:5px solid red;
+padding: 12px;
+background-color: antiquewhite;
+
+   }
+    .crl{
+        padding-right: 80px;  
+        margin-top: 10px;
+        text-align: left;
+        box-sizing: border-box;
+        font-family: open sans;
+       
+
+    }
+    
+
+.holiday{
+    margin-top: 100px;
+    background-color: rgba(0, 255, 255, 0);
+    text-align: center;
+    margin-left: 110px;
+    margin-right: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
+
+
 
 
 .holiday h3{
@@ -142,10 +211,165 @@ font-size: 15px;
 #ss{
     color: black;
 }
-.triangle{
-    display: flex;
-    margin-left: 110px;
-    margin-right: 110px;
+/* .triangle{ */
+    /* display: flex; */
+    /* margin-left: 110px; */
+    /* margin-right: 110px; */
     /* background-color: aquamarine;  */
-    margin-top: 50px;
+    /* margin-top: 50px; */
+/* } */
+
+
+/* out off topic */
+
+.out-topic{
+    margin-left: 110px;
+    /* margin-right: 110px;  */
+display: flex;
+/* background-color: wheat; */  
+
+}
+/* out- topic */
+.out-topic{
+    
+margin-top: 40px;
+height: 550px;
+
+background-image: url(Images/Rectangle\ 2.png), url(Images/Rectangle\ 1.png);
+
+
+
+ background-position: center bottom, right top; 
+background-repeat: no-repeat;
+
+}
+.notout{
+
+width: 250px;
+padding-left: 450px;
+padding-top: 30px;
+
+}
+
+.is{
+
+width: 50px;
+padding-bottom: 60px;
+/* padding-right: 500px;  */
+padding-top: 150px;
+align-items: start;
+align-items: start;
+
+}
+
+
+/* out-topic */
+
+
+
+
+
+
+
+.photo-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    /* align-items: center;  */
+    /* justify-content: center;  */
+    /* padding: 0 20px 20px;  */
+    /* background-color: black;  */
+    margin-top: 40px;
+}
+.single{
+    padding: 0 20px 20px;
+    height: 350px;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+    transition: 1s;
+}
+.single:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+
+
+
+.lot{
+   text-align: center;
+   margin-top: 70px;
+   background-color: bisque;
+   margin-left: 110px;
+   margin-right: 110px;
+   padding: 40px;
+   
+}
+
+
+
+input{
+/* width: 100%;  */
+max-width: 550px;
+border: none;
+outline: none;
+padding: 15px;
+
+border-radius:25px 0px 0px 25px ;
+
+border-left: 25px;
+font-size: 15px;
+background-color: rgba(0, 0, 255, 0.226);
+/* padding-right: 10px; */
+border-right: 0px;
+/* padding-right: 10px; */
+/* justify-content: center;  */
+
+
+}
+.deep{
+
+    display: flex;
+   margin-left: 370px;  
+    /* text-align: center;  */
+    /* margin-right: 30px;  */
+margin-top: 25px;
+
+    
+    
+    
+
+}
+#baton{
+    /* border: 2px solid green; */
+     padding-right: 25px;
+padding-left: 25px;
+background-color: red;
+font-size: 15px;
+    color: white;
+    outline: none;
+border: none;
+border-radius: 0px 25px 25px 0px;
+}
+.lastofus{
+   padding-top: 50px;
+    display: flex;
+    /* background-color: aquamarine; */
+   
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.yep{
+    
+padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.endof{
+
+    display: flex;
+    justify-content: space-evenly;
+    
 }
