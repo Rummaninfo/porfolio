@@ -352,6 +352,7 @@ border: none;
 border-radius: 0px 25px 25px 0px;
 }
 .lastofus{
+    color: white;
    padding-top: 50px;
     display: flex;
     /* background-color: aquamarine; */
@@ -362,13 +363,13 @@ border-radius: 0px 25px 25px 0px;
 }
 
 .yep{
-    
+   
 padding-top: 20px;
     text-align: center;
     padding-bottom: 20px;
 }
 .endof{
-
+color: white;
     display: flex;
     justify-content: space-evenly;
     
